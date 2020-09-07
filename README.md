@@ -1,6 +1,6 @@
 # How we ask for help.
 
-## Objective :clipboard:
+## Objective
 
 ## Provide a guideline to help you make a proper question.
 
@@ -8,7 +8,7 @@ How to guideline a student as a mentor?
 
 ---
 
-### 1. Get the context :notebook_with_decorative_cover:
+### 1. Get the context 
 
 - What project are you working on?
 - Coding language?
@@ -17,7 +17,7 @@ How to guideline a student as a mentor?
 - OS?
 - Installed plug-ins, libraries, dependencies?
 
-### 2. What is the problem? :bomb:
+### 2. What is the problem? 
 
 - What is the goal of the code?
 - What did you try?
@@ -27,7 +27,7 @@ How to guideline a student as a mentor?
 - Do you get errors?
 - If so, what are they, where do there appear? Do you have an error number?
 
-### 3. What did you try? :hammer:
+### 3. What did you try?
 
 - See the docs?
 - Did you googled it?
