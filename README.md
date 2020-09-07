@@ -1,30 +1,40 @@
-# asking_help
+# How we ask for help.
+
+## Objective :clipboard:
+
+## Provide a guideline to help you make a proper question.
 
 How to guideline a student as a mentor?
-1.	Get the context:
-a.	What project are you working on?
-b.	Coding language?
-c.	Using Frameworks?
-d.	Code editor?
-e.	OS?
-f.	Installed plug-ins, libraries, dependencies?
 
-2.	What is the problem?
-a.	What is the goal of the code?
-b.	What did you try?
-c.	What part works?
-d.	What part doesn’t works?
-e.	What do you want to do with the part that doesn’t work?
-f.	Do you get errors?
-g.	If so, what are they, where do there appear? Do you have an error number?
+---
 
-3.	What did you try?
-a.	See the docs?
-b.	Did you googled it?
-c.	Did you debug it, use a spellchecker?
-d.	Searched specific development sites (StackOverflow, …)
-e.	Did you check date of the answer on Stackoverflow…
-f.	Did you explain it to a rubber duck
-g.	Did you search for the right version of the language, application 
-h.	Did you use Google’s advanced search techniques
-i.	Did you ask someone else, a colleague?
+### 1. Get the context :notebook_with_decorative_cover:
+
+- What project are you working on?
+- Coding language?
+- Using Frameworks?
+- Code editor?
+- OS?
+- Installed plug-ins, libraries, dependencies?
+
+### 2. What is the problem? :bomb:
+
+- What is the goal of the code?
+- What did you try?
+- What part works?
+- What part doesn’t works?
+- What do you want to do with the part that doesn’t work?
+- Do you get errors?
+- If so, what are they, where do there appear? Do you have an error number?
+
+### 3. What did you try? :hammer:
+
+- See the docs?
+- Did you googled it?
+- Did you debug it, use a spellchecker?
+- Searched specific development sites (StackOverflow, …)
+- Did you check date of the answer on Stackoverflow…
+- Did you explain it to a rubber duck
+- Did you search for the right version of the language, application
+- Did you use Google’s advanced search techniques
+- Did you ask someone else, a colleague?
